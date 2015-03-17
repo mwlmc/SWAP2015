@@ -2,7 +2,7 @@
 
 ##Ejercicio T2.1: 
 
-**Calcular la disponibilidad del sistema si tenemos dos réplicas de cada elemento (en total 3 elementos en cada subsistema). **
+**Calcular la disponibilidad del sistema si tenemos dos réplicas de cada elemento (en total 3 elementos en cada subsistema).**
 
 ##Ejercicio T2.2: 
 **Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad.**
@@ -11,7 +11,7 @@
 
 ##Ejercicio T2.3: 
 **¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor?** 
-**Buscar herramientas y aprender a usarlas. **
+**Buscar herramientas y aprender a usarlas.**
 
 ##Ejercicio T2.4: 
 **Buscar ejemplos de balanceadores software y hardware (productos comerciales).** 
