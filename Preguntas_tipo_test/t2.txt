@@ -1,1 +1,28 @@
+La escalabilidad se refiere a:
 
+a) La capacidad de un sistema de manejar la carga, y el esfuerzo para adaptarse al nuevo nivel de carga.
+
+b) El uso de subsistemas redundantes y monitorizarlos mejora la disponibilidad del sistema global.
+
+c) El balanceador pasa peticiones a los servidores según el tráfico de la red.
+
+d) Conseguir disponibilidad y escalabilidad mediante balanceo de carga.
+
+Respuesta correcta:a
+
+
+Tipos de escalado:
+
+a)Ampliacion Vertical:incrementar la RAM, CPU, disco de un servidor.
+  Ampliacion Horizontal:añadir máquinas a algún subsistema.
+
+b)Ampliacion Vertical:Aumentando el numero de componentes para una mejor conexión será suficiente.
+  Ampliacion Horizontal:RAM es muy alto, veremos un uso alto de disco.
+  
+c)Ampliacion Horizontal:incrementar la RAM, CPU, disco de un servidor.
+  Ampliacion Vertical:añadir máquinas a algún subsistema.
+  
+d)Ampliacion Horizontal:incrementar la velocidad del disco de una seccion del servidor.
+  Ampliacion Vertical:añadir máquinas a algún subsistema.
+
+Respuesta correcta:a
