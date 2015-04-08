@@ -1,1 +1,23 @@
+Cuales de las alternativas NO es una forma de conectar una granja web:
 
+a)Configuración de DMZ tradicional
+
+b)Configuración sin DMZ
+
+c)Configuración de DMZ doble
+
+d)Configuración de doble aislada
+
+Respuesta correcta: d
+
+¿Cual de la siguientes afirmaciones no es es cierta?:
+
+a)En una conexion de servidores al back-rail,la subred trasera no debe conectarse directamente a Internet.
+
+b)En una conexion de servidores al back-rail,no se pueden conectar servidores single-NIC para servir aplicaciones.
+
+c)En una conexion de servidores al back-rail,los servidores conectados a la subred trasera son accesibles:-desde subredes seguras y controladas.
+
+d)En una conexion de servidores al back-rail,los servidores conectados a la subred trasera son accesibles:-desde servidores con multi-NIC
+
+Respuesta correcta: d
