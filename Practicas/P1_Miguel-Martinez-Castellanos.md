@@ -12,6 +12,8 @@ en un archivo de texto y se subirán a la cuenta de github.
 
 **Maquina 1**
 
-
+![](http://i.imgur.com/jtcHxXX.png)
 
 **Maquina 2**
+
+![](http://i.imgur.com/ViqqTd1.png)
