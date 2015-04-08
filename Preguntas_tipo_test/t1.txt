@@ -1,1 +1,23 @@
+Las fundamental caracteristica de una granja web es:
 
+a) Opción más rápida y barata.
+
+b) Son sistemas muy complejos pero sumamente flexibles y funcionales.
+
+c) Sólo hace falta una máquina con el sistema operativo
+
+d) Los cambios van directamente al servidor en producción.
+
+Respuesta correcta:b
+
+¿Por que se caracteriza un sitio web mal planificado?
+
+a) Las actualizaciones del SO, de aplicaciones o servicios pueden afectar al rendimiento global.
+
+b) Son sistemas muy complejos pero sumamente flexibles y funcionales.
+
+c) Opción más rápida y barata.
+
+d) Estos sistemas resuelven los problemas de sistemas más simples para dar servicio a un alto número de usuarios.
+
+Respuesta correcta:c
