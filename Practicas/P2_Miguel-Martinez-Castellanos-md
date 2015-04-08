@@ -1,0 +1,20 @@
+#En esta práctica el objetivo es configurar las máquinas virtuales para trabajar en modo
+espejo, consiguiendo que una máquina secundaria mantenga siempre actualizada la
+información que hay en la máquina servidora principal.
+
+#Hay que llevar a cabo las siguientes tareas:
+• probar el funcionamiento de la copia de archivos por ssh
+
+
+• clonado de una carpeta entre las dos máquinas
+
+
+• configuración de ssh para acceder sin que solicite contraseña
+
+
+• establecer una tarea en cron que se ejecute cada hora para mantener actualizado el contenido del directorio /var/www entre las dos máquinas
+
+
+**Como resultado de la práctica 2 se mostrará al profesor el funcionamiento del proceso
+de clonado de la información. En el documento de texto a entregar se describirá cómo
+se ha realizado la configuración de ambas máquinas y del software.**
