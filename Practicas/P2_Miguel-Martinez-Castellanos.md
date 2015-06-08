@@ -1,6 +1,4 @@
-#En esta práctica el objetivo es configurar las máquinas virtuales para trabajar en modo
-espejo, consiguiendo que una máquina secundaria mantenga siempre actualizada la
-información que hay en la máquina servidora principal.
+#En esta práctica el objetivo es configurar las máquinas virtuales para trabajar en modo espejo, consiguiendo que una máquina secundaria mantenga siempre actualizada la información que hay en la máquina servidora principal.
 
 ![](http://i.imgur.com/YrJdE2L.png)
 
