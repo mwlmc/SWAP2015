@@ -23,7 +23,7 @@ En todas las pruebas para la obtencion de datos he tenido que realizar una carga
 ![](http://i.imgur.com/jwbH2vz.png)
 
 - ##Openload
-![](http://i.imgur.com/vTfgVlg.png)
+![](http://i.imgur.com/RdDvaI1.png)
 
 - Graficas
 - Avg. Response time(s),Max. Response time(s),Total Resquests
