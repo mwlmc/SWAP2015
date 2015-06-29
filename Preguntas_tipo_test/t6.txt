@@ -1,0 +1,15 @@
+¿Cual no es uno de los objetivos de la seguridad?
+a)Confidencialidad:las comunicaciones deben ser secretas. 
+b)Redundancia de datos:los datos deben de no repetirse por seguridad de la base de datos.
+c)Integridad: los mensajes enviados deben ser exactamente los recibidos. 
+d)Disponibilidad: la comunicación con cualquier aplicación o servicio de la granja web debe estar disponible en el momento en que sea requerida. 
+
+Respuesta correcta : b
+
+¿Cual no es un beneficio de los cortafuegos?
+a)Protege los servidores de múltiples ataques.
+b)Evita el consumo excesivo de recursos, reduciendo el tráfico global que un servidor recibirá. 
+c)Eliminar los drivers de red que no sean necesarios.
+d)Oculta los servidores finales a otras redes.
+
+Respuesta correcta: c
