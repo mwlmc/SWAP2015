@@ -1,1 +1,15 @@
+¿Que tipo de dispositivos puedes realizar la funcion de balanceo?
+a) Solo dispositivos hardware.
+b) Dispositivos hardware y software.
+c) Solamente dispositivos software si el hardware lo permite.
+d) Son ciertas todas las anteriores.
 
+Respuesta correcta: b
+
+¿Cual de los siguientes siguientes algoritmos de balanceo es correcto?
+a)Balanceo basado en porcentajes de carga.
+b)Balanceo recurrente.
+c)Balanceo basado en turnos (round-robin)
+d)Ninguno de los anteriores
+
+Respuesta correcta: c
