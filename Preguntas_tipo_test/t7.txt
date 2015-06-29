@@ -1,0 +1,15 @@
+¿Que es RAID?
+a)es un sistema de almacenamiento que usa múltiples discos duros entre los que se distribuyen o replican los datos.
+b)es reconocido por los sistemas de seguridad de la granja web.
+c)es trata de asegurar y mejorar la disponibilidad del sitio y también de asegurarse de que las operaciones que se lleven a cabo en el sitio sean seguras. 
+d)Ninguna de las anteriores es correcta.
+
+Respuesta correcta: a
+
+¿Qué no puede hacer RAID?
+a)Permite acceder a los datos aunque falle un disco.
+b)No protege los datos.
+c)Puede mejorar el rendimiento de ciertas aplicaciones.
+d)Todas son funciones que no puede realizar un RAID.
+
+Respuesta correcta: b
