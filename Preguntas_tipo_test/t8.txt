@@ -1,0 +1,15 @@
+Necesidades de un servidor web.
+a)La b) y la c) son correctas.
+b)El diseño debe permitir el escalado del sistema.
+c)No mejora el rendimiento para todas las aplicaciones.
+d)El sistema de base de datos debería residir en una máquina separada, protegida con un cortafuegos. 
+
+Respuesta correcta: a
+
+Hay tres tareas que pueden ayudar a determinar los requisitos de hardware del sistema. 
+a)Estimar el hardware en función de las necesidades de la empresa. 
+b)Utilizar un software de monitorización para buscar cuellos de botella en la configuración inicial. 
+c)Monitorizar el sistema durante todo el tiempo que esté en uso. 
+d)Todas son correctas.
+
+Respuesta correcta: d
