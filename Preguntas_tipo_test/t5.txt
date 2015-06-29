@@ -1,0 +1,14 @@
+¿Cual es la principal necesidad de realizar test?
+a)Probar el servidor para tener prueba de que trabajamos dentro de los plazos.
+b)Detectar posibles cuellos de botella e ineficiencias
+c)Crear varias copias para prevenir posibles errores futuros.
+d)Todas con correctas
+Respuesta correcta: b
+
+¿Cual de los siguientes no es un patron de trafico?
+a)http
+b)FTP o streaming
+c)tienda web
+d)Apache Benchmark
+
+Respuesta correcta: d
