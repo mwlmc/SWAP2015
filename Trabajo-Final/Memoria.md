@@ -38,7 +38,7 @@ Servidor temporal en mi equipo: 192.168.1.12
 ```
 Las configuraciones de red de las maquinas serán doble en los servidores para que se vean y la otra para que se vean entre ellas pero eso no es necesario puesto que son maquina que nunca tendrán que comunicarse.
 Ahora voy a crear el archivo de configuración de nginx para servir las peticiones con la restricción de que si el servidor principal se cae o no esta disponible pueda servirla mi maquina personal.
-[!](http://i.imgur.com/Dkwwr2N.jpg)
+![](http://i.imgur.com/Dkwwr2N.jpg)
 he añadido que solo pueda tener 3 errores máximo y que el tiempo de fallo sea como máximo 10s.
 
 La opción backup junto a la dirección de mi servidor principal es la que me da lugar a servirle la petición en caso de que no responda el servidor principal.
@@ -48,8 +48,8 @@ Ya hemos reiniciado ,ahora iniciamos nginx con
 
 Imágenes de la realización:
 #Peticion al balanceador estando el servidor principal disponible
-[Imgur](http://i.imgur.com/AhkBeR1.jpg)
+![](http://i.imgur.com/AhkBeR1.jpg)
 
 #Peticion al balanceador estando el servidor principal fuera de servicio.
-[Imgur](http://i.imgur.com/oOJmHzD.jpg)
+![](http://i.imgur.com/oOJmHzD.jpg)
 
