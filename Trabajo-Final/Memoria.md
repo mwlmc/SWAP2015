@@ -53,3 +53,5 @@ Imágenes de la realización:
 #Peticion al balanceador estando el servidor principal fuera de servicio.
 ![](http://i.imgur.com/oOJmHzD.jpg)
 
+Esquema Resumen:
+![](http://i.imgur.com/zlKrz0M.jpg)
